@@ -8,4 +8,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Meetgajera16/Leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Meetgajera16/Leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0262-trips-and-users](https://github.com/Meetgajera16/Leetcode-solutions/tree/main/0262-trips-and-users/) | Hard |
 <!---LeetCode Topics End-->
